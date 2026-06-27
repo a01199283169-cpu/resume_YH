@@ -26,4 +26,4 @@ jobs:
             .github/**
             .gitignore
             *.pdf
-            *.md
+            README.md
