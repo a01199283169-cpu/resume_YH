@@ -3,6 +3,9 @@
 Thumbs.db
 .DS_Store
 
+# 원본 PDF (로컬 보관)
+*.pdf
+
 # 임시 파일
 *.tmp
 *~
